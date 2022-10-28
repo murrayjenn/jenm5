@@ -1,0 +1,66 @@
+{
+  "id" : "https://murrayjenn.github.io/jenm5/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in murrayjenn/jenm5 project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2836,
+    "id" : "https://murrayjenn.github.io/jenm5/images/FragmentR/canvas/",
+    "label" : {
+      "none" : [ "FragmentR" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://murrayjenn.github.io/jenm5/images/FragmentR/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://murrayjenn.github.io/jenm5/images/FragmentR/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 89,
+              "height" : 88
+            }, {
+              "width" : 178,
+              "height" : 176
+            }, {
+              "width" : 355,
+              "height" : 352
+            }, {
+              "width" : 709,
+              "height" : 704
+            }, {
+              "width" : 1418,
+              "height" : 1407
+            }, {
+              "width" : 2836,
+              "height" : 2814
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2836,
+            "@id" : "https://murrayjenn.github.io/jenm5/images/FragmentR",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2814
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2836,
+          "id" : "https://murrayjenn.github.io/jenm5/images/FragmentR/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2814
+        },
+        "target" : "https://murrayjenn.github.io/jenm5/images/FragmentR/canvas/"
+      } ]
+    } ],
+    "height" : 2814
+  } ]
+}

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 111,
+    "height" : 87
+  }, {
+    "width" : 221,
+    "height" : 174
+  }, {
+    "width" : 442,
+    "height" : 347
+  }, {
+    "width" : 883,
+    "height" : 693
+  }, {
+    "width" : 1766,
+    "height" : 1385
+  }, {
+    "width" : 3531,
+    "height" : 2770
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3531,
+  "@id" : "https://murrayjenn.github.io/jenm5/images/SourceBinding",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2770
+}

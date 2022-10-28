@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3531,
+    "id" : "https://murrayjenn.github.io/jenm5/images/SourceBinding/canvas/",
+    "label" : {
+      "none" : [ "SourceBinding" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://murrayjenn.github.io/jenm5/images/SourceBinding/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://murrayjenn.github.io/jenm5/images/SourceBinding/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 111,
+              "height" : 87
+            }, {
+              "width" : 221,
+              "height" : 174
+            }, {
+              "width" : 442,
+              "height" : 347
+            }, {
+              "width" : 883,
+              "height" : 693
+            }, {
+              "width" : 1766,
+              "height" : 1385
+            }, {
+              "width" : 3531,
+              "height" : 2770
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3531,
+            "@id" : "https://murrayjenn.github.io/jenm5/images/SourceBinding",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2770
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3531,
+          "id" : "https://murrayjenn.github.io/jenm5/images/SourceBinding/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2770
+        },
+        "target" : "https://murrayjenn.github.io/jenm5/images/SourceBinding/canvas/"
+      } ]
+    } ],
+    "height" : 2770
+  }, {
     "width" : 2945,
     "id" : "https://murrayjenn.github.io/jenm5/images/FragmentV/canvas/",
     "label" : {
